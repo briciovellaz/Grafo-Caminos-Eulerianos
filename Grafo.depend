@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1566394313 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1566395342 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1566395359 source:c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1598390887 c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1620939687 source:c:\users\brici\documents\codeblocks\grafo\main.cpp
+	"grafo.h"
+	"FuncionCaminosEulerianos.h"
+	"iostream"
+	<map>
+	<string>
+
+1620938952 c:\users\brici\documents\codeblocks\grafo\grafo.h
+	<list>
+	<iostream>
+	<algorithm>
+
+1620783657 c:\users\brici\documents\codeblocks\grafo\funciones.h
+	<vector>
+	"Grafo.h"
+
+1620940293 c:\users\brici\documents\codeblocks\grafo\funcioncaminoseulerianos.h
+	<vector>
+	"Grafo.h"
+
